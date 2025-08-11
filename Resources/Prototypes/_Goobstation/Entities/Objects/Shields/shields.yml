@@ -101,10 +101,10 @@
       startingCharge: 600
     - type: BatterySelfRecharger
       autoRecharge: true
-      autoRechargeRate: 20
+      autoRechargeRate: 15
     - type: RechargeableBlocking
-      dischargedRechargeRate: 10
-      chargedRechargeRate: 20
+      dischargedRechargeRate: 2
+      chargedRechargeRate: 15
     - type: ItemSlots
       slots:
         item:
